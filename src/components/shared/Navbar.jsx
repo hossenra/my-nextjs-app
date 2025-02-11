@@ -1,6 +1,10 @@
+"use client";
+import { usePathname } from "next/navigation";
 import React from "react";
 
 const Navbar = () => {
+  const pathName = usePathname();
+  console.log(pathName);
   return (
     <div>
       <div className="navbar bg-base-100">

@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sunset Beach Print",
+      "description": "A beautiful sunset over the ocean.",
+      "image_url": "https://picsum.photos/id/100/600/400",
+      "price": 49.99,
+      "brand": "Nature's Art"
+    },
+    {
+      "id": 2,
+      "name": "Mountain Peak Canvas",
+      "description": "Snow-capped mountain under a clear blue sky.",
+      "image_url": "https://picsum.photos/id/101/600/400",
+      "price": 79.99,
+      "brand": "Wilderness Creations"
+    },
+    {
+      "id": 3,
+      "name": "Forest Pathway Poster",
+      "description": "A serene pathway through a dense forest.",
+      "image_url": "https://picsum.photos/id/102/600/400",
+      "price": 29.99,
+      "brand": "Green Scenes"
+    },
+    {
+      "id": 4,
+      "name": "Urban Skyline Framed Art",
+      "description": "The skyline of a bustling city at night.",
+      "image_url": "https://picsum.photos/id/103/600/400",
+      "price": 99.99,
+      "brand": "Metro Designs"
+    },
+    {
+      "id": 5,
+      "name": "Desert Dunes Photo",
+      "description": "Vast sand dunes under the harsh sun.",
+      "image_url": "https://picsum.photos/id/104/600/400",
+      "price": 59.99,
+      "brand": "Arid Landscapes"
+    },
+    {
+      "id": 6,
+      "name": "Tropical Island Print",
+      "description": "A peaceful tropical island with palm trees.",
+      "image_url": "https://picsum.photos/id/105/600/400",
+      "price": 39.99,
+      "brand": "Island Vibes"
+    },
+    {
+      "id": 7,
+      "name": "Autumn Leaves Canvas",
+      "description": "Colorful autumn leaves covering the ground.",
+      "image_url": "https://picsum.photos/id/106/600/400",
+      "price": 69.99,
+      "brand": "Seasonal Artworks"
+    },
+    {
+      "id": 8,
+      "name": "Winter Wonderland Poster",
+      "description": "A snowy landscape with frozen trees.",
+      "image_url": "https://picsum.photos/id/107/600/400",
+      "price": 34.99,
+      "brand": "Frosty Creations"
+    },
+    {
+      "id": 9,
+      "name": "Spring Blossoms Framed Art",
+      "description": "Flowers blooming in a vibrant spring garden.",
+      "image_url": "https://picsum.photos/id/108/600/400",
+      "price": 89.99,
+      "brand": "Bloom Studios"
+    },
+    {
+      "id": 10,
+      "name": "Summer Festival Photo",
+      "description": "A lively summer festival with colorful decorations.",
+      "image_url": "https://picsum.photos/id/109/600/400",
+      "price": 44.99,
+      "brand": "Festive Moments"
+    }
+  ]
+}
